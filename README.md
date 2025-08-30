@@ -51,7 +51,7 @@ Installation Steps
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/Course-Registration-System.git
+git clone https://github.com/vijaykeerthi2025/Course-Registration-System.git
 
 
 2. Set Up the Database:
